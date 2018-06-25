@@ -1,2 +1,5 @@
 # hello-world
-&lt;just another repository>
+
+Hi all!
+
+Im b2tages, Im learning code 
